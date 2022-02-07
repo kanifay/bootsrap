@@ -1,0 +1,115 @@
+
+body{
+  font-family: Montserrat,sans-serif;
+}
+.title {
+  background: Purple;
+  font-family:Ubuntu;
+}
+
+.container{
+  padding: 3% 15%;
+
+}
+
+.new {
+  font-size: 3rem;
+  color: white;
+
+}
+.navbar{
+  padding:0 0  5rem;
+}
+
+.nav-link{
+
+  color: white;
+}
+.nav-item{
+  padding:15px;
+}
+.dropdown{
+  padding:15px;
+}
+.image{
+  width:50%;
+  transform: rotate(25deg);
+}
+#features{
+  padding:7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+}
+
+h3{
+  font-family: "monsterrat-bold";
+  font-size: 1.5rem;
+}
+
+p{
+color: grey;
+}
+
+.icon{
+  color: Purple;
+  margin:1rem ;
+}
+.icon:hover{
+  color:pink;
+}
+
+#testimonials{
+  padding:7% 15%;
+  text-align: center;
+  background-color: Purple;
+  color: white;
+}
+h2{
+  font-family: "monsterrat-bold";
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.dog{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+#press{
+  background-color: Purple;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.logop{
+  width:15%;
+  margin: 20px 20px 50px;
+}
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin:20px;
+}
+#pricing{
+  color: purple;
+  margin: 20px 20px 50px;
+}
+.phead{
+  text-align: center;
+padding-top: 3%;
+}
+
+#cta{
+text-align: center;
+padding-top: 3%;
+padding-bottom: 3%;
+}
+.foot{
+  background-color: purple;
+    color:white;
+}
+.icon1{
+  color: white;
+    margin:1rem ;
+}
