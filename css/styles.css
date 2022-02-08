@@ -5,6 +5,7 @@ body{
 .title {
   background: Purple;
   font-family:Ubuntu;
+ text-align: center;
 }
 
 .container{
@@ -119,3 +120,11 @@ padding-bottom: 3%;
   color: white;
     margin:1rem ;
 }
+
+@media  (max-width: 1080px) {
+  .image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+
